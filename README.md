@@ -55,6 +55,8 @@ TODO
 
 ### 3.1 TuneIn
 
+_used on their website or in e.g. Tesla cars_
+
 * https://tunein.com/search/?query=intergalactic
 
 Intergalactic FM - Main
@@ -71,6 +73,8 @@ Intergalactic FM - The Dream Machine
 
 
 ### 3.2 Dirble
+
+_used on their web site and integrated in MPD or Mopidy audio service_
 
 * https://dirble.com/search
 
@@ -91,6 +95,8 @@ Intergalactic Funk
 
 
 ### 3.3 Community Radio Station Board
+
+_used on their web site and integrated in Android apps_
 
 * http://radio-browser.info/gui/#/byname/intergalactic
 
@@ -116,6 +122,8 @@ Intergalactic FM - Dream Machine
 
 
 ### 3.4 KODI
+
+_used as media player or home theatre_
 
 audio
 * [plugin](https://kodi.tv/addon/music-add-ons-plugins/intergalactic-fm)
