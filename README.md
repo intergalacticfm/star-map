@@ -87,7 +87,7 @@ Broken links:
 * https://vimeo.com/intergalacticfm
 * https://vimeo.com/search?q=intergalactic+fm
 
-[![https://i.vimeocdn.com/portrait/21388819_300x300.webp](https://i.vimeocdn.com/portrait/21388819_300x300.webp)](https://i.vimeocdn.com/portrait/21388819_300x300.webp)
+non-linkable image: https://i.vimeocdn.com/portrait/21388819_300x300.webp
 
 
 ### 2.6 Bandcamp
